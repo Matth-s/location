@@ -1,0 +1,12 @@
+.bannerCategory-container {
+  width: 100%;
+  height: 160px;
+  background-color: $color-black-grey;
+  border-top: 1px solid rgba($color-grey, $alpha: 0.4);
+  margin-bottom: 40px;
+
+  h2 {
+    margin: auto;
+    color: $color-grey;
+  }
+}

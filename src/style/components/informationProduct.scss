@@ -1,0 +1,15 @@
+.informationProduct-container {
+  width: 445px;
+  height: min-content;
+  margin-left: auto;
+  border: 1px solid green;
+
+  h2 {
+    margin-bottom: 20px;
+  }
+
+  p {
+    margin-bottom: 10px;
+    font-weight: 500;
+  }
+}
